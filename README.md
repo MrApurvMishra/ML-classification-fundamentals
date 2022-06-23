@@ -1,4 +1,4 @@
-# Machine-Learning-fundamentals
+# ML Classification basics using Gradient Descent
 
 Contains classification algorithms as an introduction to Machine Learning, coded using the fundamental Python Libraries.
 
